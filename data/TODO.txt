@@ -1,0 +1,1 @@
+Add directory containing raw ADCIRC output files and the solution variables saved in compressed numpy format here.
